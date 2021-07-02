@@ -1,0 +1,5 @@
+D:\[Sistemas]\[En Desarrollo]\SMPedidos\SMPedidos\SMPedidos\obj\Debug\SMPedidos.csproj.AssemblyReference.cache
+D:\[Sistemas]\[En Desarrollo]\SMPedidos\SMPedidos\SMPedidos\obj\Debug\SMPedidos.Properties.Resources.resources
+D:\[Sistemas]\[En Desarrollo]\SMPedidos\SMPedidos\SMPedidos\obj\Debug\SMPedidos.Views.fToast.resources
+D:\[Sistemas]\[En Desarrollo]\SMPedidos\SMPedidos\SMPedidos\obj\Debug\SMPedidos.csproj.GenerateResource.cache
+D:\[Sistemas]\[En Desarrollo]\SMPedidos\SMPedidos\SMPedidos\obj\Debug\SMPedidos.csproj.CoreCompileInputs.cache
